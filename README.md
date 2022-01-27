@@ -28,4 +28,3 @@ After spending a decade fostering my marketing career, I decided to change paths
 
 ## How to reach me?
 - yun.zagarzazu@gmail.com
-- twitter.com/yzagarzazu
