@@ -1,4 +1,4 @@
-### Hi there 👋 I am Yun Zagarzazu!
+### Hi there 👋 I'm Yun!
 
 <!--
 **yzagarza/yzagarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +27,5 @@ After spending a decade fostering my marketing career, I decided to change paths
 - Traveling (goal is to visit all 7 continents and I've currently been stuck on #4 due to the pandemic)
 
 ## How to reach me?
-yun.zagarzazu@gmail.com
-twitter.com/yzagarzazu
+- yun.zagarzazu@gmail.com
+- twitter.com/yzagarzazu
